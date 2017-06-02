@@ -1,0 +1,1 @@
+"use strict";!function(){alert("1234")}(),function(){console.log("测试数据")}();
